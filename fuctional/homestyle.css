@@ -1,0 +1,40 @@
+*{
+
+   background-image:OIP (1) copy.jpeg ;
+   background-size:cover;
+}
+    nav{
+    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+}
+nav ul a{
+    list-style: none;
+}
+.logo img{
+	float: left;
+	width: 150px;
+	height: 100px;
+}
+
+.main{
+	max-width: 1600px;
+	margin: auto;
+}
+
+navbar{
+    list-style: none;
+display: inline-block;
+} navbar li a .image{
+    justify-content: space-between;
+}
+form{
+    position: fixed;
+    color: brown 50%;
+    border-style: color(green) solid;
+    list-style: bullets;
+}
+

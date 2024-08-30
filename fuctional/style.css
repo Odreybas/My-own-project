@@ -1,0 +1,36 @@
+*{
+    color: blue;
+    background-image: c:\Users\ENNAH\3D Objects\download.jpeg;
+}
+body{
+    
+    padding: 120px 50px;
+    left: 60px;
+
+}
+img{
+    position: relative;
+    background-size: cover;
+    size: 100%;
+}
+
+h1{
+    list-style: upper-alpha;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown; 
+    font-weight: bold;
+}
+.container {
+    display: inline-block;
+    margin: 20px,30px;
+    padding: 10 px;
+    position: centre;
+    
+}
+button{
+    color: red;
+
+
+
+}
+ 
